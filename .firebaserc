@@ -1,0 +1,15 @@
+{
+  "targets": {
+    "weddingrsvp-fb55e": {
+      "hosting": {
+        "WeddingRsvp": [
+          "weddingrsvp-fb55e"
+
+        ]
+      }
+    }
+  },
+  "projects": {
+    "PROD": "weddingrsvp-fb55e"
+  }
+}
