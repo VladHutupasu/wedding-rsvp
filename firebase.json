@@ -2,7 +2,7 @@
   "hosting": [
     {
       "target": "WeddingRsvp",
-      "public": "dist/wedding-rsvp",
+      "public": "dist/wedding-rsvp/browser",
       "ignore": ["**/.*"],
       "headers": [
         {

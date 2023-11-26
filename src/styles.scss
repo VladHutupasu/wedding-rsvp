@@ -1,6 +1,6 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 html,
 body {
@@ -11,4 +11,10 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   font-family: "Dancing Script", sans-serif;
+}
+
+// General rules
+.input:focus,
+.input:focus-within {
+  outline: 0;
 }

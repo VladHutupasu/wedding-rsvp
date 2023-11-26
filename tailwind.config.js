@@ -6,5 +6,8 @@ module.exports = {
   blocklist: [
     'tooltip'
   ],
-  plugins: [require("daisyui")]
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: ["dark"]
+  },
 }
